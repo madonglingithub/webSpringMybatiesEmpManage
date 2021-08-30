@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webSpringMybatiesEmpManage">
+    <output-path>$PROJECT_DIR$/out/artifacts/webSpringMybatiesEmpManage</output-path>
+    <root id="root" />
+  </artifact>
+</component>
